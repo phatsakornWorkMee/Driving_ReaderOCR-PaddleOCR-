@@ -5,13 +5,19 @@ The system processes images to extract essential fields and converts them into J
 
 Key Features
 The program supports two primary input workflows:
+
 1.Local File Processing: Read images directly from your local directory.
+
 2.API Integration: Send images via API endpoints for real-time processing.
 
 Workflow Process
+
 1.Input Submission: The user sends an image to the OCR engine (via local file or API).
+
 2.OCR Processing: PaddleOCR analyzes the driver's license and extracts text data.
+
 3.Data Filtering: The system filters and maps the raw text into a predefined JSON structure.
+
 4.Data Storage: The processed data is saved locally as a .json file for future use.
 
 Integration & Use Cases
