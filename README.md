@@ -18,6 +18,8 @@ Integration & Use Cases
 Currently, the project supports a Local API, allowing for immediate integration with various platforms such as:
 Frontend Web Applications: For automated form filling , Mobile Apps: For on-the-go license scanning,Internal Management Systems: For employee registration and identity verification.
 
+Note: This tool is ideal for developers seeking a lightweight, easy-to-install, and fast solution for document data extraction.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Driving_ReaderOCR เป็นโปรเจกต์ การนำภาพไปประมวณผลเพื่อดึงข้อมูลจากบัตรใบอนุญาตขับขี่ โดยใช้ PaddleOCR ในการอ่าน หลังจากประมวณผลเสร็จจะทำการดึงข้อมูลบางส่วนที่จำเป็นไปบันทึกเป็นข้อมูลเป็น Json
@@ -43,6 +45,6 @@ Driving_ReaderOCR(PaddleOCR)
 
 Frontend Web Application,Mobile App สำหรับสแกนบัตร, ระบบลงทะเบียนพนักงาน (Internal Management System)
 
-## Note: เหมาะสำหรับนักพัฒนาที่ต้องการ โปรแกรม สำหรับอ่านบัตรที่ติดตั้งง่ายและทำงานได้รวดเร็ว
+Note: เหมาะสำหรับนักพัฒนาที่ต้องการ โปรแกรม สำหรับอ่านบัตรที่ติดตั้งง่ายและทำงานได้รวดเร็ว
 
 
